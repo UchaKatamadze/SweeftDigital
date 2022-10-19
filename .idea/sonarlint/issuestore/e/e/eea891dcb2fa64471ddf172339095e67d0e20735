@@ -1,0 +1,13 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¥‹ª°ıÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕøáH
+Z
+java:S1854"?Remove this useless assignment to local variable "arrayLength".(Ô¢¹ªşÿÿÿÿ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+R
+java:S1481"0Remove this unused "arrayLength" local variable.(Ô¢¹ªşÿÿÿÿ8šåûæ¾0
+A
+java:S1128"+Remove this unused import 'java.sql.Array'.(Õø‹ù
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
